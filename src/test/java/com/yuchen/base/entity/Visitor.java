@@ -5,7 +5,7 @@ import java.util.Date;
 
 import com.yuchen.base.annotations.Column;
 import com.yuchen.base.annotations.Entity;
-import com.yuchen.base.date.DateUtil;
+import com.yuchen.base.util.DateUtil;
 
 @Entity(name="visitor")
 public class Visitor implements Serializable {

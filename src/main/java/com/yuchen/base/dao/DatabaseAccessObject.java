@@ -68,7 +68,7 @@ public class DatabaseAccessObject {
 	 * Delete data by id.<br>
 	 * The primary key of the table must be id
 	 * 
-	 * @param id
+	 * @param object
 	 * @return
 	 */
 	public boolean delete(Object object) {
