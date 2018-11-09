@@ -23,5 +23,4 @@ public @interface Column {
 	 * Whether the primary key?
 	 */
 	public boolean primaryKey() default false;
-		
 }
